@@ -32,7 +32,7 @@ while(pozostałeLitery > 0) {
 
 	//wczytaj strzał użytkownika 
 
-	var strzał = prompt("Podaj literę albo kilknij anuluj, aby zakończyć grę");
+	var strzał = prompt("Podaj literę.");
 
 	if (strzał === null) {
 		break;
